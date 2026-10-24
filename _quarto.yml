@@ -5,6 +5,7 @@ project:
 website:
   title: "Emily E Meyer"
   navbar:
+    title: false
     left:
       - href: index.qmd
         text: Home
