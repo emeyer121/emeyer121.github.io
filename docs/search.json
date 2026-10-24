@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Emily E Meyer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "emeyer121@gmail.com\nComputational Neuroscience PhD Student\nUniversity of Pennsylvania\n\n\n\n\n\nComputational Neuroscience PhD Candidate at the University of Pennsylvania. Excited about understanding how we process our visual environment using behavioral, computational, and neural data. Experienced in extracting signals from noisy, natural experimental paradigms and using models to learn more about brain and behavior.\n\n\n\n\n  \n    \n    Project 1\n  \n\n  \n    \n    Project 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Emily E Meyer",
+    "section": "",
+    "text": "Project 1\n  \n\n  \n    \n    Project 2"
   }
 ]
