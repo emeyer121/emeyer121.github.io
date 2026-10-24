@@ -1,0 +1,25 @@
+# Quarto build output (default - not needed since we use /docs)
+_site/
+
+# Quarto cache and temp files
+.quarto/
+/.quarto/
+
+# OS files
+.DS_Store           # Mac
+Thumbs.db           # Windows
+
+# R related (if you use R)
+.Rproj.user/
+*.Rhistory
+*.RData
+
+# Python related (if you use Python)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# VS Code
+.vscode/

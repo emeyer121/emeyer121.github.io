@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Emily E Meyer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: posts/index.qmd
+        text: Research
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
