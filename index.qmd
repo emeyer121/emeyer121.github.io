@@ -47,12 +47,12 @@ Computational Neuroscience PhD Candidate at the University of Pennsylvania. Exci
 <div class="project-grid">
 
   <a href="posts/project1/index.html" class="project-card">
-    <div class="project-img-placeholder"></div>
+    <img src="assets/shrew.png" alt="Project 1"/>
     <div class="project-overlay"><span>Project 1</span></div>
   </a>
 
   <a href="posts/project2/index.html" class="project-card">
-    <div class="project-img-placeholder"></div>
+    <img src="assets/einstein_windows.png" alt="Project 2"/>
     <div class="project-overlay"><span>Project 2</span></div>
   </a>
 
