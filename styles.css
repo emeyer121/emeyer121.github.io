@@ -59,12 +59,12 @@ body {
 }
 
 .social-icons a {
-  color: var(--accent-primary);
+  color: var(--accent-primary) !important;
   transition: color 0.2s ease;
 }
 
 .social-icons a:hover {
-  color: var(--accent-secondary);
+  color: var(--accent-secondary) !important;
 }
 
 /* ── Contact Info ───────────────────────── */
@@ -76,21 +76,21 @@ body {
 
 /* ── Headings ───────────────────────────── */
 h1, h2, h3 {
-  color: var(--accent-primary);
+  color: var(--accent-primary) !important;
 }
 
 h2 {
-  border-bottom: 2px solid var(--accent-light);
+  border-bottom: 2px solid var(--accent-light) !important;
   padding-bottom: 0.3rem;
 }
 
 /* ── Links ──────────────────────────────── */
 a {
-  color: var(--accent-primary);
+  color: var(--accent-primary) !important;
 }
 
 a:hover {
-  color: var(--accent-secondary);
+  color: var(--accent-secondary) !important;
 }
 
 /* ── Project Cards ──────────────────────── */
@@ -130,9 +130,10 @@ a:hover {
   bottom: 0;
   left: 0;
   right: 0;
+  z-index: 1;
   background: linear-gradient(
-    transparent,
-    rgba(50, 50, 50, 0.9)       /* ← dark gray instead of purple */
+    rgba(50, 50, 50, 0),         /* ← same color, fully transparent */
+    rgba(50, 50, 50, 0.75)       /* ← same color, semi-opaque */
   );
   color: white;
   padding: 0.75rem 1rem;
