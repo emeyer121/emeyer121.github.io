@@ -13,10 +13,10 @@ toc: false
 
 ```{=html}
 <div class="social-icons">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/emeyer121" target="_blank">
     <i class="bi bi-github"></i>
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/emeyer121" target="_blank">
     <i class="bi bi-linkedin"></i>
   </a>
   <a href="assets/cv.pdf" target="_blank">
